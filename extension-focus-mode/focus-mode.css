@@ -1,0 +1,28 @@
+/* Hide common distractions */
+
+header,
+nav,
+aside,
+footer,
+[role="navigation"],
+[role="banner"],
+[role="complementary"] {
+  display: none !important;
+}
+
+/* Make the main content wider and centered */
+
+main,
+article,
+[role="main"] {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  padding: 2rem !important;
+}
+
+/* Improve readability */
+
+body {
+  line-height: 1.7 !important;
+  font-size: 18px !important;
+}

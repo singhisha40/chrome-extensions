@@ -1,6 +1,6 @@
-# Chrome Extensions
+# Browser Extensions
 
-A collection of Chrome extensions I'm building while learning the Chrome Extensions API.
+A collection of Browser extensions I'm building while learning the Chrome Extensions API.
 
 The goal of this repository is to document my learning journey by building small, practical extensions and gradually exploring more advanced Chrome extension concepts.
 
@@ -10,16 +10,11 @@ The goal of this repository is to document my learning journey by building small
 |-----------|-------------|--------|
 | Hello World | A simple extension to understand the basics of Manifest V3 and content scripts. | ✅ |
 | Reading Time | Displays estimated reading time for web pages using Mozilla Readability.js for accurate article extraction. | ✅ |
+| Focus Mode | Helps reduce distractions by hiding common navigation elements and improving the readability of web pages | ✅ |
 
 > More extensions will be added as I continue learning.
 
----
 
-## Tech Stack
-
-- JavaScript
-- Chrome Extensions Manifest V3
-- HTML & CSS
 
 ---
 
